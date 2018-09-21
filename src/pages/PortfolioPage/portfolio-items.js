@@ -21,25 +21,6 @@ export default [{
     </div>
   )
 }, {
-  name: 'dev-landing-page',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        React Portfolio Page
-      </div>
-      <div className='portfolio-item__desc'>
-        Portfolio page with dynamic theming
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-js"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/dev-landing-page">Github</a>
-      </div>
-    </div>
-  )
-}, {
   name: 'Dollarprobs',
   render: (
     <div className='portfolio-item'>
@@ -98,22 +79,41 @@ export default [{
     </div>
   )
 }, {
-  name: 'browser-or-node',
+  name: 'goldenspikes',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Browser or Node
+        Goldenspikes
       </div>
       <div className='portfolio-item__desc'>
-        Javascript library to check the runtime JS env
+       Uploads user submissions and dynamically creates spreadsheets of data.
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-npm"></i>
+        <i className="fab fa-python"></i>
+        <i className="fab fa-aws"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/browser-or-node">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/arzon94/goldenspikes">Github</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://goldenspikes.herokuapp.com/submissions">More</a>
+      </div>
+    </div>
+  )
+}, {
+  name: 'dev-landing-page',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        React Portfolio Page
+      </div>
+      <div className='portfolio-item__desc'>
+        Portfolio page with dynamic theming
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/arzon94/mysitedev">Github</a>
       </div>
     </div>
   )

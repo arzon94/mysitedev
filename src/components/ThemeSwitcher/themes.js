@@ -68,7 +68,7 @@ const themes = [
     colorAlternate: '#FAFAFA',
     colorHighlight: '#f5ebe2',
     textPrimary: '#202121',
-    navAlpha: 'rgba(0, 0, 0, 0.05)'
+    navAlpha: 'rgba(0, 0, 0, 0.02)'
   },
   {
     name: 'fall',
@@ -78,18 +78,18 @@ const themes = [
     colorAlternate: '#e17421',
     colorHighlight: '#f9e4d5',
     textPrimary: '#202121',
-    navAlpha: 'rgba(0, 0, 0, 0.05)'
+    navAlpha: 'rgba(0, 0, 0, 0.02)'
   },
   {
     name: 'crimson-red sunset',
     image: 'https://source.unsplash.com/DjlKxYFJlTc/1600x900', //keep
     firstTime: true,
-    colorPrimary: '#bf0d0d',
-    // colorPrimary: '#cc0000',
+    // colorPrimary: '#bf0d0d',
+    colorPrimary: '#cc0000',
     colorAlternate: '#202121',
     colorHighlight: '#cc0000',
     textPrimary: '#FAFAFA',
-    navAlpha: 'rgba(0, 0, 0, 0.05)'
+    navAlpha: 'rgba(0, 0, 0, 0.02)'
   },
   {
     name: 'red pool', //keep
@@ -99,7 +99,7 @@ const themes = [
     colorAlternate: '#FAFAFA',
     colorHighlight: '#f6e4e7',
     textPrimary: '#202121',
-    navAlpha: 'rgba(0, 0, 0, 0.05)'
+    navAlpha: 'rgba(0, 0, 0, 0.02)'
   },
   {
     name: 'red-alt beachwalker',
@@ -109,7 +109,7 @@ const themes = [
     colorAlternate: '#89303d',
     colorHighlight: '#63232c',
     textPrimary: '#FFFFFF',
-    navAlpha: 'rgba(137, 48, 61, 0.05)'
+    navAlpha: 'rgba(137, 48, 61, 0.02)'
   },
   {
     name: 'indigo-alt cityscape', //keep
@@ -119,7 +119,7 @@ const themes = [
     colorAlternate: '#303F9F',
     colorHighlight: '#242f78',
     textPrimary: '#FAFAFA',
-    navAlpha: 'rgba(48, 63, 159, 0.05)'
+    navAlpha: 'rgba(48, 63, 159, 0.02)'
   },
   {
     name: 'grey-alt',
@@ -129,7 +129,7 @@ const themes = [
     colorAlternate: '#485564',
     colorHighlight: '#333c46',
     textPrimary: '#FFFFFF',
-    navAlpha: 'rgba(72, 85, 100, 0.05)'
+    navAlpha: 'rgba(72, 85, 100, 0.02)'
   },
   {
     name: 'material-cyan-alt ocean',
@@ -139,7 +139,7 @@ const themes = [
     colorAlternate: '#00BCD4',
     colorHighlight: '#d4faff',
     textPrimary: '#212121',
-    navAlpha: 'rgba(255, 255, 255, 0.05)'
+    navAlpha: 'rgba(255, 255, 255, 0.02)'
   },
   {
     name: 'material-brown boring plant',
@@ -149,7 +149,7 @@ const themes = [
     colorAlternate: '#FFFFFF',
     colorHighlight: '#eee6e3',
     textPrimary: '#212121',
-    navAlpha: 'rgba(255, 255, 255, 0.05)'
+    navAlpha: 'rgba(255, 255, 255, 0.02)'
   },
   {
     name: 'material-grey kilmanjaro',
@@ -159,7 +159,7 @@ const themes = [
     colorAlternate: '#FFFFFF',
     colorHighlight: '#dfe6e9',
     textPrimary: '#212121',
-    navAlpha: 'rgba(255, 255, 255, 0.05)'
+    navAlpha: 'rgba(255, 255, 255, 0.02)'
   },
   {
     name: 'material-grey-alt',
@@ -169,7 +169,7 @@ const themes = [
     colorAlternate: '#455A64',
     colorHighlight: '#374850',
     textPrimary: '#FAFAFA',
-    navAlpha: 'rgba(69, 90, 100, 0.05)'
+    navAlpha: 'rgba(69, 90, 100, 0.02)'
   },
   {
     name: 'image test',
@@ -179,7 +179,7 @@ const themes = [
     colorAlternate: '#455A64',
     colorHighlight: '#374850',
     textPrimary: '#FAFAFA',
-    navAlpha: 'rgba(255, 255, 255, 0.05)'
+    navAlpha: 'rgba(255, 255, 255, 0.02)'
   },
 ];
 

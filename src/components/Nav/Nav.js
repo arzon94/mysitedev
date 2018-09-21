@@ -58,7 +58,7 @@ class Nav extends Component {
       >
         <div className="magic-wand bounce-xy" onClick={(e) => switchTheme()}>
           <button className="fas fa-magic fa-lg" href="#" />
-          <div className="magic-text">Color Me</div>
+          <div className="magic-text">Change Theme</div>
         </div>
         <style jsx="true">
           {`

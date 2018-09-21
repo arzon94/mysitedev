@@ -31,7 +31,7 @@ const AboutPage = (props, context) => {
             </p>
             <p></p>
             <p>
-              I develop the <a className="highlight" href="https://map.byu.edu" target="_blank" rel="noopener noreferrer">Campus Map</a>  and other web resources for Brigham Young University and I 
+              I develop the <span className="" >Campus Map</span> and other web resources for Brigham Young University and I 
               I am a Masters of Information Systems Management student. I study web frameworks, 
             software development, GIS APIs, and data analytics. </p>
             <p></p>
@@ -41,7 +41,8 @@ const AboutPage = (props, context) => {
             </p>
             <p></p>
             <p>
-             If you are a business seeking a web presence or an employer looking to hire, you can get in touch with me here.
+             If you are a business seeking a web presence or an employer looking to hire, you can get in touch with me here 
+              <a target="_blank" rel="noopener noreferrer" href="mailto:andyp3rkins@gmail.com" style={ { color: colorPrimary } }> <i className="fas fa-envelope"></i></a>
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               {/* \ (•◡•) / */}
