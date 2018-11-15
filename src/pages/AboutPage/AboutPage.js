@@ -21,7 +21,7 @@ const AboutPage = (props, context) => {
         `}
       </style>
       <div className="content-grid">
-        <h1 style={{ color: colorPrimary }}>About</h1>
+        <h1 style={{ color: colorPrimary }}>About Me</h1>
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p></p>
@@ -31,13 +31,13 @@ const AboutPage = (props, context) => {
             </p>
             <p></p>
             <p>
-              I develop the <span className="" >Campus Map</span> and other web resources for Brigham Young University and I 
-              I am a Masters of Information Systems Management student. I study web frameworks, 
-            software development, GIS APIs, and data analytics. </p>
+              I develop the <span className="" >Campus Map</span> and other web resources for Brigham Young University and 
+              I am a Masters of Information Systems Management student. I enjoy learning about web frameworks, machine learning,
+            data analytics, and everything software. </p>
             <p></p>
             <p>
-              Django, Vue, Python, Larvel, Tableau, ArcGIS, React, and React-Native
-               are the main tools I use to build awesome products. 
+              Vue, Flutter, Python, Larvel, Tableau, ArcGIS, React, and React-Native
+               are the some of my favorite tools to build awesome products. 
             </p>
             <p></p>
             <p>
