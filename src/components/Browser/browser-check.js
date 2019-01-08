@@ -29,7 +29,8 @@ export const isIE = () => /*@cc_on!@*/false || !!document.documentMode;
 export const isEdge = () => !isIE && !!window.StyleMedia;
 
 // Chrome 1+
-export const isChrome = () => !!window.chrome && !!window.chrome.webstore;
+// export const isChrome = () => !!window.chrome && !!window.chrome.webstore;
+export const isChrome = () => !!window.chrome;
 
 // Blink engine detection
 export const isBlink = () => (isChrome || isOpera) && !!window.CSS;
